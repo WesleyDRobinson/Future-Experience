@@ -1,5 +1,8 @@
 # Future-Experience
 
+Wesley is most proud of leading the charge on the API testing. A nice example here:
+https://github.com/WesleyDRobinson/Future-Experience/blob/master/tests/server/routes/7-listitem-route-test.js
+
 <img src="http://i.imgur.com/Gfs35gv.png"></img>
 
 [Explore Future Experience](http://future-experience.herokuapp.com)
